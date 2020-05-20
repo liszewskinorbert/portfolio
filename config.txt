@@ -1,0 +1,11 @@
+[mysection]
+user = emailaddress@domain.com
+pasw = password
+maxUsage = 60
+filesPath = D:\\aaa\\bbb
+ctime1 = -1
+ctime2 = -1
+delete = False
+email = emailaddressto@domain.com
+
+
